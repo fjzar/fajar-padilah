@@ -7,6 +7,9 @@ js
 laravel
 figma
 github
+git
+web dev
 project
 pkl
 project2
+project3
