@@ -1,0 +1,9 @@
+Fajar Padilah
+c++
+html
+css
+php
+js
+laravel
+figma
+github
